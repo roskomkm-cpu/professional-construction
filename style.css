@@ -1,4 +1,4 @@
-body{margin:0;font-family:Arial,sans-serif;color:#222}
+.body{margin:0;font-family:Arial,sans-serif;color:#222}
 .container{max-width:1200px;margin:auto;padding:40px 20px}
 .site-header{border-bottom:1px solid #ddd;background:#fff}
 .header-inner{display:flex;justify-content:space-between;align-items:center}
