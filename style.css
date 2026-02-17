@@ -4,7 +4,7 @@ body{margin:0;font-family:Arial,sans-serif;color:#222}
 .header-inner{display:flex;justify-content:space-between;align-items:center}
 .site-title{color:#c40000;font-weight:bold;font-size:20px}
 .socials a{margin-left:10px;color:#c40000;text-decoration:none}
-.hero{height:70vh;background-size:cover;background-position:center;display:flex;align-items:center}
+..hero{height:70vh;background-image:url('../hero.jpg');background-size:cover;background-position:center;background-repeat:no-repeat;display:flex;align-items:center;}
 .hero-content{color:#fff;padding-left:10%;background:rgba(0,0,0,.45);padding:40px}
 .btn{display:inline-block;background:#c40000;color:#fff;padding:12px 24px;text-decoration:none}
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px}
